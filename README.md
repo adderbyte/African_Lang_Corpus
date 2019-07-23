@@ -5,7 +5,7 @@
 
 * Data source: 
 
-  a. [Wikipedia API](https://www.mediawiki.org/wiki/API:Main_page)
+  a. [Wikipedia](https://www.wikipedia.org/)
   
   
 
