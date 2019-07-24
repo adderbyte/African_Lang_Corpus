@@ -3,7 +3,7 @@
      Languages
 ---------------------------------
 
-  * Yoruba
   * Igbo
   * Hausa
+  * Yoruba
   
