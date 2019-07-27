@@ -7,11 +7,14 @@
   * Hausa
   * Yoruba
   
-  
+ 
+ 
+ 
 ---------------------------
                                     
       Package Dependencies
 ---------------------------
+
 * Uses:
 
           * textract==1.6.1
